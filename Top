@@ -1,0 +1,20 @@
+[>] SSH Address
+51.68.172.7:442@mizo70:mizo80
+[>] Config blocked for mobile data only?
+false
+[>] Unlock proxy field?
+false
+[>] SSL/SNI value
+www.fast.com
+[>] Connect using SSH?
+true
+[>] Lock Payload?
+false
+[>] Locked with HWID?
+false
+[>] Unlock user and password fields?
+false
+[>] Password protected?
+true
+[>] Password Value
+king5
